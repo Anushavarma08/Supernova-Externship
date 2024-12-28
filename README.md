@@ -40,6 +40,9 @@ During my externship at Supernova MGU in collaboration with TripleTen, I conduct
 ## Conclusion
 The analysis revealed a positive correlation between infraction counts and the severity of actions taken. Regional anomalies like Wellington emphasized the need for targeted risk management strategies. The insights provided actionable recommendations for improving insurance pricing models and facility compliance incentives.
 
+## Visualization
+- **Tableau Public Link:  https://tabsoft.co/3ZSDKME 
+
 ---
 
 For more information, feel free to explore the project files or contact me directly.
